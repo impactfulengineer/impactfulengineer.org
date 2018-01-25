@@ -1,0 +1,157 @@
+﻿Editing by Feb 7th, 2018
+Hunter
+Robin
+Herri Gunawan https://www.linkedin.com/in/gunawanherri/
+
+Questions & Answers
+0. How do you know Tony Tam, if you don't know him personally, how did he make a connection with you for this interview?
+
+
+I know Tony through our tenure together at Silicon Graphics, Inc. He and I are colleague as software engineers at that time.
+
+
+1. Where do you currently work and what your current role is within the company? What scope of impact do you have within your organization?
+
+
+I just left my job as CIO and VP of Technology at a mid-size company. Before that, I was CTO and SVP of Technology.
+In the last 3 jobs, I was a member of Executive Leadership Team. I managed the whole engineering team and full control of day-to-day operation from budget, architecture and hiring/firing decision.
+
+
+2. When did you get started with computers? Do you remember your first computer? Could you give us a history of how you got to where you are today?
+
+
+I was always interested in the STEM subjects and computer since middle school. My home town in Indonesia happen to be the central place for oil and gas company (Chevron-Texaco). They have computers and mainframes and I happened to know a mentor who was kind enough to mentor me about computer related matter. I started my career as software engineer in Silicon Valley and follow the path of technical lead, engineering manager. I then took my MBA and pursue some product (program) management type of work at Microsoft before joining few mid-size companies as their executives.
+
+
+3. What does a typical day at work look like for you and how do you stay on top of everything that is asked of you?
+
+
+I try to keep a comprehensive todo list for myself and encourage my direct reports to do the same thing for our 1-on-1. Many of my time is consumed either by fire, planning or strategizing with my fellow ELT or direct-reports. 
+
+
+4. What computer language have you used at work in the last 10 years, and which language do you use for personal projects? If they are different languages, could you explain why?
+
+
+In the same last 10 years, I'd say Java, Ruby and Rails, PhP. Many developers and companies seem to enjoy RoR nowadays. There are other languages sprinkled in there such as Phyton for ML related deliverables.
+
+
+5. What are some of your favorite tools, compilers, and editors (whether it be on your phone, laptop, or even on paper) that you use daily and would recommend to others?
+
+
+I'm old school, so still use VIM. I know Eclipse and RubyMine are also popular.
+
+
+6. Who was the best manager you’ve ever had and why?
+
+
+One of the best managers that I have is Dirk Dougherty at Commerce One. He's very down-to-earth, supportive, positive-reinforcement (rather than stick), provide mentorship. I try to emulate this management style whenever I go, particularly on the mentorship.
+
+
+7. Which team was the best team you were on and why?
+
+
+I had a really good time with my team at Commerce One. We're tight-knit team. We went through very good and very bad together but we also do it as a team. Team members just work together for a common purpose. Love it.
+
+
+8. Which project are you the most proud of and why?
+
+
+Again, at Commerce One where we need to deliver enterprise-quality B2B platform. We went through tight deadline and many distractions, but we did make it.
+
+
+9. Who has helped / mentored you and has made the biggest impact on your career? What did you learn from this person that you still carry with you to this day?
+
+
+See question #6. I also had a great mentor named On Lee (he used to be a director at Microsoft). I learn to connect with each team member individually. Make each of them successful and mentor them (many times it's not technical issue at all but personal, such as I've done engineering and I want to try management. Can you guide me how to get there?)
+Another lesson is to keep up with knowledge and technology and honestly I'm not doing well on that front at all…
+
+
+10. How do you prepare for meetings and what do you do after meetings? A lot of people complain about meetings, what is your view on that?
+
+
+Sometimes meeting are necessary evil. IMHO, it's about management of the meeting: who should attend, what is the objective and agenda of the meeting, and action items.
+
+
+11. If a software engineer came to you and asked for advice on increasing their impact and getting promoted, what would you say to them?
+
+
+It's all about solving business problems by providing values. Our values as engineers are to use technology to solve those business problems.
+
+
+12.What advice would you give to a smart, driven engineer zero to three years out of college? What advice should they ignore?
+
+
+Learn about how to collaborate, learn how to understand business problems itself. Ignore advice that you MUST use technology x,y,z. Those technologies change all the time. Always use the right tools to solve the problems.
+
+
+13. What blogs, newsletters, github repos, podcasts, conferences websites do you regularly read/attend in order to stay ahead of the changing landscape?
+
+
+Stackoverflow. I found Amazon ReInvent conference to be useful.
+
+
+14. Thinking back on your career, what do you think has helped you personally grow your impact in the various stages of your career?
+
+
+Find a good mentor. Learn continuously.
+
+
+15.. Do you have any advice on how to effectively mentor someone through their career? What does a successful mentor / mentee relationship look like?
+
+
+Mentor should try to understands what motivate the mentee. Ask hard questions of what they really want. After identifying of what they need, connect them with someone who can help them or guide them of how to acquire those skillsets.
+
+
+16. Is there anything that hasn’t been mentioned that you think is relevant to helping other engineers increase their impact? If so, what?
+
+
+The ability to work with other disciplines are very important. Always put customers need ahead of engineering complexity.
+The following questions are from Tim Ferriss’ book Tribe Of Mentors.
+17. In the last 5 years, have you adopted any habits or rituals that make you more impactful?
+
+
+I like to read and try to be curious.
+
+
+18. If you could have a gigantic billboard anywhere with anything on it — metaphorically speaking, getting a message out to millions or billions — what would it say and why? It could be a few words or a paragraph. (If helpful, it can be someone else’s quote: Are there any quotes you think of often or live your life by?)
+
+
+Never give up and Be nice. 
+
+
+19. What is one of the best or most worthwhile investments you’ve ever made? (Could be an investment of money, time, energy, etc.)
+
+
+I always feel the time I invest for my mentees worth every single penny and second!
+
+
+20. In the last five years, what new belief, behavior, or habit has most improved your life?
+
+
+Wake up early and try to do more stuff in the morning.
+
+
+21. In the last five years, what have you become better at saying no to (distractions, invitations, etc.)? What new realizations and/or approaches helped? Any other tips?
+
+
+I try to separate needs versus wants.
+
+
+22. When you feel overwhelmed or unfocused, or have lost your focus temporarily, what do you do? (If helpful: What questions do you ask yourself?)
+
+
+Prioritize my work. See question #21.
+
+
+22. What is the book (or books) you’ve given most as a gift, and why? Or what are one to three books that have greatly influenced your life?
+
+
+My goodness. I always feel like my first C reference book is a classic. Short and sweet.
+
+
+23. Who else should I interview?
+
+
+Muljadi Sulistio and Pamela! 
+Sue Liu
+Good To Great by Jimi Collins
