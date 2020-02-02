@@ -1,0 +1,54 @@
+/* title */
+h1.entry-title {
+	color: #103a63;
+}
+
+/* First heading */
+h2 {
+	color: #3f6c99;
+}
+
+/* top menu */
+.menu-primary-container a {
+	color: black;
+  font-weight: 300;
+}
+
+/* Right side blog entries */
+.widget_recent_entries a {
+	font-weight: 400;
+}
+
+/* Title of right widgets */
+.widget .widget-title, .widget .widgettitle {
+	font-weight: 400
+}
+
+/* First char of an article */
+span#firstchar {
+	font-size: 48px;
+	color: #3f6cee;
+}
+
+body {
+	color: #000000;
+}
+
+body b {
+	color: #3f6c99;
+}
+
+body strong {
+	color: #c25712;
+}
+
+.bpq_basic.bpq-full {
+  background-color: #107896;
+	color: #f9f9f9;
+	border-left: 10px solid #ccc;
+	box-shadow: none;
+	padding: 0px 20px
+}
+.bpq_basic.bpq-full p {
+	display: inline-block
+}
